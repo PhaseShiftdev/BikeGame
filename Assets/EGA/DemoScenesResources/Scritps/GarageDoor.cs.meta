@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 25995771219ef044ab3f91c23f54058c
+timeCreated: 1458221511
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - garDoorUiText: {fileID: 111144, guid: 272431f8a372cfd45baa9123fd574b2e, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
